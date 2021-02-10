@@ -1,5 +1,4 @@
 # RationalHydroDyanmics
-Addresses KSP's problem of: Everything has max buoyancy and the same pressure limit.
 ![logo](https://i.imgur.com/vejyxy1.png)
 
 A tiny but rather powerful mod. It wil inflate your MM cache just as its older brother, Rational Resources does. RHD brings long-awaited ease of design of undersea vessels by appropriately setting high or low buoyancy values to parts, and setting appropriately diverse pressure limit values so that some parts have more...or less ability to survive extreme pressures when you go to Difficulty Settings and enable **Part Pressure Limits**.
