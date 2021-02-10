@@ -4,7 +4,7 @@
 	"https://github.com/JadeOfMaar/RationalHydroDynamics/releases",
 	"URL":
 	"https://raw.githubusercontent.com/JadeOfMaar/RationalHydroDyanmics/main/GameData/RationalHydroDynamics/Version/RationalHydroDynamics.version",
-	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/RationalHydroDyanmics/blob/main/GameData/RationalHydroDynamics/Version/Changelog.md",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/JadeOfMaar/RationalHydroDyanmics/main/GameData/RationalHydroDynamics/Version/Changelog.md",
 	"GITHUB":
 	{
 		"USERNAME":"JadeOfMaar",
