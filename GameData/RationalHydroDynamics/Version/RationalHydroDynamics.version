@@ -1,14 +1,14 @@
 {
 	"NAME":"Rational HydroDynamics",
 	"DOWNLOAD":
-	"https://github.com/JadeOfMaar/RationalResources/releases",
+	"https://github.com/JadeOfMaar/RationalHydroDynamics/releases",
 	"URL":
-	"https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalHydroDynamics/Version/RationalHydroDynamics.version",
-	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalHydroDynamics/Version/Changelog.md",
+	"https://raw.githubusercontent.com/JadeOfMaar/RationalHydroDyanmics/main/GameData/RationalHydroDynamics/Version/RationalHydroDynamics.version",
+	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/RationalHydroDyanmics/blob/main/GameData/RationalHydroDynamics/Version/Changelog.md",
 	"GITHUB":
 	{
 		"USERNAME":"JadeOfMaar",
-		"REPOSITORY":"https://github.com/JadeOfMaar/RationalResources",
+		"REPOSITORY":"https://github.com/JadeOfMaar/RationalHydroDynamics",
 		"ALLOW_PRE_RELEASE":true
 	},
 	"VERSION":
